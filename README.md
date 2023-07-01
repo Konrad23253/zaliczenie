@@ -1,1 +1,1 @@
-Konrad, 23253, c10
+Konrad Żołądek, 23253, c10
